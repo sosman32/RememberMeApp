@@ -6,7 +6,7 @@ Prerequisites and Launch Program Instructions :
 The first step to utilize this application is you would need to download python to your local machine.
 Next, unzip this folder anywhere on your machine. 
 At this point there are 2 options to launch the application:
- 1. Navigate to the RememberMeApp location and open the dist folder. In there will be the application called "app". 
+ 1. Navigate to the RememberMeApp location and open folder. In there will be the application called "app.py". 
     Simply double-click on this file to launch the application. 
  2. Open command prompt, and navigate to the folder by typing "cd"
     followed by the path to the RememberMeApp folder. (Example, C:/Users/user/PycharmProjects/RememberMeApp/app.py).
